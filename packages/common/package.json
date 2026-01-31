@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/dat.gui": "^0.7.12",
-    "@vercel/flags": "^2.6.0",
+    "@vercel/flags": "^3.1.1",
     "api-types": "workspace:*",
     "config": "workspace:*",
     "dat.gui": "^0.7.9",
